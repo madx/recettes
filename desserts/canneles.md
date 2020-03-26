@@ -1,8 +1,9 @@
-Cannelés
-========
+Temps: Long
+---
 
-Ingrédients
------------
+# Cannelés
+
+## Ingrédients
 
 Pour une douzaine de cannelés
 
@@ -14,8 +15,7 @@ Pour une douzaine de cannelés
 - 1 gousse de vanille
 - 3 bouchons de rhum
 
-Étapes
-------
+## Étapes
 
 1. Préchauffer le four à 160° C.
 1. Couper la gousse vanille en deux, racler les graines et les mélanger au lait.
@@ -27,8 +27,7 @@ Pour une douzaine de cannelés
 5. Beurrer généreusement les moules à cannelés.
 6. Verser la pâte dans les moules, sans aller jusqu'au bord. Cuire 1h.
 
-Tips
-----
+## Tips
 
 - Je laisse généralement cuire 50minutes puis je démoule sur une plaque et je
   laisse continuer à cuire une dizaine de minutes, jusqu'à ce qu'ils soient bien
